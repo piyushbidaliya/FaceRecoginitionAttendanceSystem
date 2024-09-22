@@ -1,0 +1,10 @@
+export { default as Navbar } from '../components/Navbar'
+export { default as Footer } from '../components/Footer'
+export { default as Header } from '../components/Header'
+export { default as TakeAttendance } from '../pages/TakeAttendance'
+export { default as AddStudent } from '../pages/AddStudent'
+export { default as StudentAttendance } from '../pages/StudentAttendance'
+export { default as Home } from '../pages/Home'
+export { default as Login } from '../pages/Login'
+export { default as Register } from '../pages/Register'
+
